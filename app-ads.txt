@@ -1,2 +1,5 @@
-google.com, pub-6761976500877504, DIRECT, f08c47fec0942fa0
-unityads.com, 3275326, DIRECT
+# AdMob (Google)
+google.com, pub-8961611044501442, DIRECT, f0c47fec0942fa0
+
+# LevelPlay (ironSource) + mediation networks
+ironsrc.com, 647857, DIRECT
